@@ -1,0 +1,3 @@
+baseURL = 'http://www6v.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
