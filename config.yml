@@ -35,9 +35,9 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: categories
+                - name: Categories
                   url: categories/    
-                - name: series
+                - name: Series
                   url: series/                  
 
 
