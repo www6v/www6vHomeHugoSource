@@ -1,6 +1,6 @@
 #!/bin/bash
 
-huge
+hugo
 
 cd public
 
