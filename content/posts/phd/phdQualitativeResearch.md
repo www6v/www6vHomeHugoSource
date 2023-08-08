@@ -153,6 +153,31 @@ Overall, qualitative case study research offers a distinct approach to understan
 
 
 
+### 1.5.7. When the Types of Qualitative Research Overlap.
+
+This passage discusses the overlap and diversity in types of qualitative research. While there are common types, many others exist, including combinations of types, such as an ethnographic case study. The approach to qualitative research is influenced by the theoretical framework and the study's purpose. There's no single correct way to define or describe a qualitative study, and it's up to the researcher to justify their approach based on the literature and their research intentions. This requires a thorough examination of various literature sources.
+
+这篇文章讨论了定性研究类型的重叠和多样性。虽然有一些常见的类型，但还存在许多其他类型，包括类型的组合，如民族志案例研究。定性研究的方法受到理论框架和研究目的的影响。没有单一正确的方式来定义或描述定性研究，这取决于研究者如何根据文献和他们的研究意图来证明他们的方法。这需要对各种文献来源进行彻底的检查。
+
+
+## 1.6. Designing a qualitative study
+
+This chapter will discuss the process of designing a qualitative study, including selecting a research topic, refining it into a research problem, and understanding the role of a theoretical framework and literature review. It will also address the debate over the reliability and validity of qualitative research due to the existence of a fixed qualitative paradigm. The chapter emphasizes that these steps are interactive processes. The selection of the study sample will be discussed in subsequent chapters.
+
+
+本章将讨论设计定性研究的过程，包括选择研究主题，将其细化为研究问题，以及理解理论框架和文献综述的作用。同时，也将讨论由于存在固定的定性范式，定性研究的可靠性和有效性引发的争论。本章强调这些步骤是互动的过程。研究样本的选择将在后续章节中讨论。
+
+### 1.6.1. Selecting a topic
+
+The selection of a research topic can be influenced by various factors such as personal experiences, interests in a particular field, current social and political issues, literature, previous research or theory in the area. It can be derived from daily life experiences, workplace scenarios, or personal interests. Topics can also be inspired by changes in the environment, social and political issues, or existing literature and theories. However, the most important factor in choosing a research topic is genuine curiosity and interest in finding answers to the questions posed. This enthusiasm will drive the research process more than any other factor. Once the topic is chosen, it needs to be shaped into a research problem.
+
+研究主题的选择可以受到各种因素的影响，如个人经验、对某一领域的兴趣、当前的社会和政治问题、文献、该领域的先前研究或理论。它可以源于日常生活经验、工作场景或个人兴趣。主题也可以受到环境变化、社会和政治问题，或现有文献和理论的启发。然而，选择研究主题最重要的因素是对寻找问题答案的真正好奇心和兴趣。这种热情将比任何其他因素更能推动研究过程。一旦选择了主题，就需要将其塑造成一个研究问题。
+
+### 1.6.2. The Research Problem
+
+The research problem is the core of any research study and is the issue that the researcher seeks to address. It starts with a broad area of interest, which is then narrowed down to a specific question. This question identifies a gap in existing knowledge, which the research aims to fill. The problem statement, which outlines the research problem, is a carefully crafted essay that lays out the logic of the research study. It includes three components: the context of the study, the gap in the knowledge base, and the significant problem to address. The problem statement concludes with the purpose statement and research questions, which guide the study.
+
+研究问题是任何研究的核心，是研究者试图解决的问题。它从一个广泛的兴趣领域开始，然后缩小到一个具体的问题。这个问题识别出现有知识中的一个空白，研究的目标就是填补这个空白。问题陈述，概述了研究问题，是一个精心制作的文章，阐述了研究的逻辑。它包括三个部分：研究的背景，知识库中的空白，以及需要解决的重要问题。问题陈述以目的陈述和研究问题结束，这些问题指导了研究。
 
 
 
