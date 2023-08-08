@@ -110,3 +110,49 @@ Phenomenology is a philosophy that underlies qualitative research, focusing on t
 
 
 
+### 1.5.3. Ethnography
+Ethnography is a qualitative research method that has been used for a long time. It involves studying human society and culture by immersing oneself in the group being studied. Ethnographers spend a significant amount of time with the group, participating in their activities and building relationships with informants. The primary method of data collection is through participant observation, interviews, and analysis of documents and artifacts. Ethnography focuses on providing a thick description of the culture and interpreting the meanings participants attribute to their lives. It distinguishes between the emic perspective of insiders and the etic perspective of researchers. Ethnography is the second most common type of qualitative study and requires a clear understanding of the sociocultural patterns of the group under study.
+
+
+
+民族志学是一种长期以来被广泛应用的定性研究方法。它涉及通过深入研究的群体中融入自身，来研究人类社会和文化。民族志学家与研究对象共度大量时间，参与他们的活动并与知情者建立关系。数据收集的主要方法包括参与观察、访谈以及文献和文物的分析。民族志学着重提供对文化的详细描述，并解释参与者赋予其生活的意义。它区分了内部人的emic视角和研究者的etic视角。民族志学是第二常见的定性研究类型，需要对研究对象所在群体的社会文化模式有清晰的理解。
+
+
+### 1.5.4. Grounded Theory
+
+Grounded Theory is a qualitative research method focused on building theory from the data. It was introduced by Glaser and Strauss in 1967. Unlike other qualitative approaches, the emphasis is on developing substantive theories that are specific to everyday situations. Grounded Theory is particularly useful for studying processes and how things change over time. Data collection involves interviews, observations, and analysis of various documentary materials. The process includes theoretical sampling and constant comparative analysis to identify patterns and develop categories. The ultimate goal is to create a grounded theory that explains the relationships among categories, properties, and hypotheses. It's important to note that the term "grounded theory" is sometimes used loosely, causing confusion. A study should be labeled as a "grounded theory study" only when a substantive theory is derived from the data.
+
+
+
+“基础理论（Grounded Theory）”是一种定性研究方法，其重点是从数据中建立理论。它由格拉泽（Glaser）和斯特劳斯（Strauss）于1967年提出。与其他定性方法不同，基础理论的重点是发展与日常情境相关的实质性理论。基础理论特别适用于研究过程以及事物随时间变化的情况。数据收集包括访谈、观察和各种文献资料的分析。研究过程包括理论抽样和不断比较分析，以确定模式并发展出类别。最终目标是创建一个基础理论，解释类别、属性和假设之间的关系。需要注意的是，“基础理论”这个术语有时使用不严谨，容易引起混淆。只有在从数据中得出实质性理论时，研究才应被标为“基础理论研究”。
+
+
+### 1.5.5. Narrative Inquiry
+Narrative Inquiry is a qualitative research method that focuses on using stories as data to understand human experiences and make sense of the world. Stories and narratives are fundamental to communication and sense-making. In this approach, first-person accounts of experiences, told in a story format with a beginning, middle, and end, serve as the primary data. Various terms like biography, life history, oral history, autoethnography, and autobiography may be used interchangeably with narratives.
+Hermeneutics, the study of interpretation, plays a crucial role in narrative inquiry, as it guides how texts are understood and interpreted within their historical and cultural contexts. Narrative analysis draws from hermeneutics and extends its scope to include interview transcripts, life history narratives, historical memoirs, and creative nonfiction.
+Different methodological approaches are employed to analyze stories in narrative inquiry, such as biographical analysis, psychological analysis focusing on personal issues and motivations, and linguistic (discourse) analysis examining language use, narrative structure, and nonverbal elements like intonation and pauses.
+Alongside the increasing popularity of narrative inquiry, questions arise regarding the best practices for presenting people's stories, the researcher's role in the process, and the validity and reliability of these narratives as sources of knowledge.
+
+
+叙事研究是一种定性研究方法，专注于将故事作为数据来理解人类经历和认识世界。故事和叙述对于沟通和理解至关重要。在这种方法中，以开始、中间和结尾的故事形式讲述的个人经历成为主要数据。可以互换使用多种术语，如传记、生活史、口述历史、自传和自传体文学。
+解释学，即解释研究，在叙事研究中起着至关重要的作用，它指导如何在历史和文化背景中理解和解释文本。叙事分析借鉴了解释学，并扩展了其范围，包括访谈记录、生活史叙述、历史回忆录和创意非虚构作品。
+在叙事研究中，采用不同的方法论方法来分析故事，例如传记分析、关注个人问题和动机的心理分析，以及语言（话语）分析，研究语言使用、叙事结构和语言之外的元素，如语调和停顿。
+随着叙事研究日益受到欢迎，人们对于如何最好地呈现人们的故事、研究者在过程中的角色以及这些叙述作为知识来源的有效性和可靠性等问题也逐渐浮现。
+
+
+
+### 1.5.6. Qualitative Case Study
+Qualitative case study is a unique form of qualitative research that involves in-depth description and analysis of a bounded system. It shares common characteristics with other qualitative research methods, such as the search for meaning and understanding, the researcher as the primary instrument, an inductive investigative approach, and richly descriptive outcomes. The defining characteristic of a case study is the delimitation of the object of study, known as the case, which can be an individual, program, group, institution, community, or policy.
+Unlike other qualitative research methods, the unit of analysis, rather than the topic of investigation, characterizes a case study. The focus is on a specific sample or bounded system, rather than the entire population. It is essential to establish boundaries and have a clearly defined sample for a study to be considered a case study. Comparative case studies, involving multiple cases or subunits, are also commonly conducted.
+Overall, qualitative case study research offers a distinct approach to understanding and analyzing bounded systems, emphasizing depth and specificity in the investigation.
+
+
+定性案例研究是一种独特的定性研究形式，涉及对有界系统的深入描述和分析。它与其他定性研究方法有共同的特点，如寻求意义和理解，研究者作为主要工具，归纳性的调查方法，以及丰富的描述性结果。案例研究的定义特征是对研究对象的限定，也就是案例，可以是个人、程序、团体、机构、社区或政策。
+与其他定性研究方法不同，案例研究的特点是分析单位，而不是调查主题。焦点在于特定的样本或有界系统，而不是整个人口。一个研究要被视为案例研究，就必须建立边界并有一个明确定义的样本。比较案例研究，涉及多个案例或子单位，也常常被进行。
+总的来说，定性案例研究提供了一种独特的方法来理解和分析有界系统，强调调查的深度和特异性。
+
+
+
+
+
+
