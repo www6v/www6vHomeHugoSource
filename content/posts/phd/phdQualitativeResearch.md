@@ -181,3 +181,23 @@ The research problem is the core of any research study and is the issue that the
 
 
 
+### 1.6.3. The Theoretical Framework
+
+The theoretical framework is the underlying structure of a study, based on the concepts or theories the study is built upon. It is often difficult to specify in qualitative research, which focuses on inductively building concepts, hypotheses, and theories. The theoretical framework can be identified through the disciplinary orientation and the literature related to the topic of interest. It supports the problem of the study, research questions, data collection, analysis techniques, and interpretation of findings. The theoretical framework can be seen as a set of interlocking frames, including the theoretical framework itself, the problem statement, and the purpose of the study. Reviewing relevant literature is necessary to identify the theoretical framework. The literature review provides the foundation for contributing to the knowledge base and demonstrates how the study deviates from what has already been studied.
+
+
+理论框架是研究的基础结构，它基于研究所依赖的概念或理论。在定性研究中，这通常很难明确，因为定性研究关注的是归纳构建概念、假设和理论。理论框架可以通过学科定位和与研究主题相关的文献来确定。它支持研究问题、研究问题、数据收集、分析技术和研究结果的解释。理论框架可以被看作是一组互锁的框架，包括理论框架本身、问题陈述和研究目的。回顾相关文献是确定理论框架所必需的。文献综述为增加知识基础提供了基础，并展示了研究如何偏离已经研究过的内容。
+
+
+### 1.6.4. Conducting and writing up a literature review
+
+The process of conducting and writing a literature review begins with defining the scope of the search based on the author's familiarity with the topic and the clarity of the research problem. The author should identify key studies, theories, and issues related to the topic, and decide which full-length resources to obtain based on the author's importance, the date of the work, the relevance of the issue tested, and the quality of the source. It's crucial to record bibliographic references accurately and efficiently. Knowing when to stop reviewing literature is also important, and can be determined by familiarity with all relevant literature or a subjective understanding of the literature. A literature review is a narrative essay that synthesizes, critiques, and integrates key thinking and results on the topic. The author's opinion on the research and literature is a vital component. The literature review is beneficial in situating the study, making decisions post-research, and shaping the problem statement.
+
+
+进行和撰写文献综述的过程首先从根据作者对主题的熟悉程度和研究问题的明确性来定义搜索范围开始。作者应该识别与主题相关的关键研究、理论和问题，并根据作者的重要性、作品的日期、测试问题的相关性和来源的质量来决定获取哪些全文资源。准确高效地记录参考文献是至关重要的。知道何时停止查阅文献也很重要，这可以通过熟悉所有相关文献或对文献的主观理解来确定。文献综述是一篇综合、批评和整合主题关键思想和结果的叙述性文章。作者对研究和文献的观点是一个重要的组成部分。文献综述有助于定位研究，做出研究后的决策，并塑造问题陈述。
+
+
+
+
+
+
