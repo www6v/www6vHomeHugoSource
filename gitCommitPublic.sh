@@ -1,10 +1,10 @@
 #!/bin/bash
 
-hugo
-
 cd public
 
 rm -rf *
+
+hugo
 
 git add .
 git commit -m "add"
